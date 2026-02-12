@@ -1,0 +1,213 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    
+}
+nav{
+    background-color: rgb(90, 4, 4);
+    height: 60px;
+    width: 100%;
+}
+.t1{
+     color: rgb(247, 247, 247);
+    font-size: 30px;
+    margin: 8px;
+    float: left;
+    border-radius: 100%;
+    background-color: azure;
+   
+}
+ul{
+    margin: 9px;
+    color: black;
+    float: right;
+    list-style-type: none;
+}
+li{
+   font-size: 14px;
+    float: left;
+    padding: 10px;
+    color: rgb(182, 182, 182);
+}
+.m1{
+  
+    width: 150px;
+    height: 75px;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+.btn1{
+    
+    background-color: rgb(90, 4, 4);
+    color: white;
+    padding: 13px ;
+    border: none;
+    border-radius: 100%;
+    margin: 10px;
+   
+}
+.content{
+    height: 600px;
+    width: 100%;
+    background-image: url("ChatGPT Image 30 nov. 2025, 18_12_18.png");
+    background-size: cover;
+    text-align: center; 
+    background-attachment: fixed;
+}
+.c1{
+    color: white;
+  
+    padding-top: 200px;
+}
+.p1{
+   margin: 20px;
+    
+}
+/* section 2 */
+.mochkila{
+   height: 520px;
+    width: 100%;
+    
+    
+   
+}
+body{
+    background-color: rgb(56, 1, 4);
+    color: white;
+
+}
+.t3{
+    color: white;
+    text-align: center;
+    padding: 20px;
+    font-size: 25px;
+}
+.table{
+    width: 70%;
+    float:  left;
+    height: 100px;
+    font-size:20px;
+    text-align: center;   
+}
+.img{
+    width: 30%;
+    float: right;
+   
+}
+.image1{
+   width: 378px;
+    height: 500px;
+  ;
+}
+.t4{
+    background-color: rgb(90, 4, 4);
+    color: white;
+    font-size: 20px;
+}
+.t5{
+    color: white;
+    
+    padding: 20px;
+    font-size: 30px;
+    
+}
+.maps
+{
+    position: relative;
+    width: 100%;
+    max-width: 1000px;
+    height: 420px;
+    margin: 40px auto;
+    border-radius: 15px;
+    overflow: hidden;
+    box-shadow: 0 6px 20px rgba(0,0,0,0.15);
+    
+   
+}
+.map-iframe {
+    width: 100%;
+    height: 100%;
+    border: 0;
+}
+.social-overlay {
+    position: absolute;
+    bottom: 16px;
+    right: 16px;
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+}
+
+/* Buttons */
+.social-btn {
+    width: 48px;
+    height: 48px;
+    background: white;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.15);
+    transition: 0.2s;
+}
+
+.social-btn:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 8px 18px rgba(0,0,0,0.22);
+}
+
+/* Img icons */
+.social-btn img {
+    width: 22px;
+    height: 22px;
+}
+
+/* Hover colors */
+.instagram:hover { background: #f5e2eb; }
+.whatsapp:hover  { background: #d9ffdf; }
+.facebook:hover  { background: #dfeaff; }
+.youtube:hover   { background: #ffe3e3; }
+
+/* Responsive */
+@media (max-width: 520px) {
+    .map-wrapper {
+        height: 300px;
+    }
+    .social-btn {
+        width: 42px;
+        height: 42px;
+    }
+    .social-btn img {
+        width: 20px;
+        height: 20px;
+    }
+}
+.btn3{
+     background-color: rgb(122, 119, 119);
+    color: rgb(0, 0, 0);
+    padding: 13px ;
+    border: none;
+    border-radius: 100%;
+    margin: 10px;
+}
+.formulaire{
+    
+   width: 40%;
+   
+   
+}
+input{
+    margin: 10px;
+    padding: 10px;
+    border-radius: 10px;
+    border: none;
+    width: 200px;
+}
+.body2{
+    background-color: rgb(56, 1, 4);
+    color: white;
+    text-align: center;
+    height: 500px;
+}     
